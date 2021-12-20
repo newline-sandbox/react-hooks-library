@@ -1,1 +1,1 @@
-export { useMap, UseMap, MapOrEntries, UseMapActions } from "./useMap";
+console.log("Hello World!");
