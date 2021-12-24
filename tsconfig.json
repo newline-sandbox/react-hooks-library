@@ -11,7 +11,8 @@
     "forceConsistentCasingInFileNames": true,
     "noEmit": true,
     "outDir": "./esm",
-    "declarations": true,
+    "moduleResolution": "node",
+    "declaration": true,
     "declarationDir": "./types",
     "importHelpers": true
   },
